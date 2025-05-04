@@ -1,26 +1,15 @@
-# Lama Dev School Management Dashboard
+- Eğer yolu tek yazma isterseniz (dashboard) yapmak yeterli
 
-## Getting Started
+npm install recharts - grafikler için
 
-First, run the development server:
+npm i react-big-calendar \_\_\_ buyuk tarih formatları için 
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+react-big-calendar/lib/css/react-big-calendar.css import etmek ve moment kurmak gerekıyor
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+sign in login için === https://clerk.com/docs/quickstarts/nextjs#create-your-first-user
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+dashboard için ==== https://dashboard.clerk.com/apps/app_2vLwNmMOEYwjoxFbkr2Nm5toK73/instances/ins_2vLwNqpId4JKn9O9OP9KcJi8j8B/users
 
-## Learn More
+prizma localhost için === npx prisma studio
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Lama Dev Youtube Channel](https://youtube.com/lamadev) 
-- [Next.js](https://nextjs.org/learn)
+# FullStackDashboard
