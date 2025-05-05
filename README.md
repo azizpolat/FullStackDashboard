@@ -13,3 +13,4 @@ dashboard için ==== https://dashboard.clerk.com/apps/app_2vLwNmMOEYwjoxFbkr2Nm5
 prizma localhost için === npx prisma studio
 
 # FullStackDashboard
+# FullStackDashboard
